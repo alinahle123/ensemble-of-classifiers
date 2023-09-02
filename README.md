@@ -1,2 +1,2 @@
 # ensemble of classifiers
- algorithms are : ada boost , gradient boosting
+ algorithms are : ada boost , gradient boosting , bagging 
